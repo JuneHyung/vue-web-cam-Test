@@ -104,6 +104,8 @@ npm run dev
 | pause        | void     | Programmatically pause the camera                            |
 | resume       | void     | Programmatically resume the camera after it was paused<br />일시 중지 된 후 카메라를 프로그래밍 방식으로 카메라 재게 |
 
+![method](./images/method.jpg)
+
 ## Contributing
 
 If you'd like to help make this project better you can help with the following tasks:
